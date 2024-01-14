@@ -4,4 +4,4 @@
 
 ### File Details
 
-_IncDec file for increment and decrement counter on clicked_
+- `IncDec` file for **increment** and **decrement** counter on clicked\*\*
